@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Simple Bag Sorter
+## Notes: Sortiert Taschen nach Seltenheit (Qualität).
+## Author: Du
+## Version: 1.0
+
+SimpleBagSorter.lua
